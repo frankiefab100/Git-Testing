@@ -1,2 +1,6 @@
-# Git-Testing
-A repo to practise use of Git
+# TO Do's
+
+- [x] Terminal/Command line
+- [] Git
+- [] Github
+- [] OSS
