@@ -1,13 +1,11 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [<img align="right" width="150" src="../assets/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
-
 
 # First Contributions
 
-|<img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="200">|GitHub Desktop Edition|
-|---|---|
+| <img alt="GitHub Desktop" src="https://desktop.github.com/images/desktop-icon.svg" width="200"> | GitHub Desktop Edition |
+| ----------------------------------------------------------------------------------------------- | ---------------------- |
 
 It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. But open source is all about collaboration & working together. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
 
@@ -70,7 +68,7 @@ You can see that there are changes to Contributors.md and they have been added t
 
 Now commit those changes:
 
-Write the message "Add `<your-name>` to Contributors list" in the *summary* field.
+Write the message "Add `<your-name>` to Contributors list" in the _summary_ field.
 
 Replace `<your-name>` with your name.
 
@@ -94,7 +92,7 @@ Click the `Publish` button on the top right.
 
 ## Submit your changes for review
 
-If you go to your repository on github, you'll see  `Compare & pull request` button. click on that button.
+If you go to your repository on github, you'll see `Compare & pull request` button. click on that button.
 
 <img style="left;" src="../assets/compare-and-pull.png" alt="create a pull request" />
 
@@ -106,14 +104,14 @@ Soon I'll be merging all your changes into the master branch of this project. Yo
 
 ## Where to go from here?
 
-Congrats!  You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
+Congrats! You just completed the standard _fork -> clone -> edit -> PR_ workflow that you'll encounter often as a contributor!
 
 Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io#social-share).
 
 You can join our slack team in case you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY).
 
-
 ### [Additional material](../additional-material/git_workflow_senarios/additional-material.md)
 
 ## Tutorials Using Other Tools
+
 [Back to main page](https://github.com/firstcontributions/first-contributions#tutorials-using-other-tools)
