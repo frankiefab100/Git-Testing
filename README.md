@@ -1,2 +1,3 @@
 # Git-Testing
-A repo to practise use of Git
+
+A repository to practise Git and Command Line Interface usage.
